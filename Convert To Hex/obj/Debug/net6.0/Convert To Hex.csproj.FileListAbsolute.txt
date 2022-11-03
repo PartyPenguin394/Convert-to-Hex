@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\bin\Debug\net6.0\Convert To Hex.exe
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\bin\Debug\net6.0\Convert To Hex.deps.json
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\bin\Debug\net6.0\Convert To Hex.runtimeconfig.json
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\bin\Debug\net6.0\Convert To Hex.dll
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\bin\Debug\net6.0\Convert To Hex.pdb
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\Convert To Hex.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\Convert To Hex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\Convert To Hex.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\Convert To Hex.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\Convert To Hex.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\Convert To Hex.dll
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\refint\Convert To Hex.dll
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\Convert To Hex.pdb
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\Convert To Hex.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Convert To Hex\Convert To Hex\obj\Debug\net6.0\ref\Convert To Hex.dll
